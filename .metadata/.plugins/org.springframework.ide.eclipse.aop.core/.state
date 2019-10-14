@@ -2,4 +2,5 @@
 <aop-reference-model>
 <aop-project name="animationWeb"/>
 <aop-project name="jex00"/>
+<aop-project name="ex01"/>
 </aop-reference-model>

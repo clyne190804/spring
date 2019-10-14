@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value=""/>
+		<item key="selection" value="2.5"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="zax"/>
-			<item value="junit"/>
-			<item value="test"/>
-			<item value="spring"/>
-			<item value="juni"/>
-			<item value="ju"/>
+			<item value="2.5"/>
 			<item value="lombok"/>
+			<item value="lom"/>
+			<item value="spring-test"/>
+			<item value="Oracle"/>
+			<item value="url"/>
+			<item value="uri"/>
+			<item value="log4"/>
 			<item value="log"/>
-			<item value="properties"/>
-			<item value="war"/>
-			<item value="war\"/>
-			<item value="maven.plugins"/>
-			<item value="maver.plugins"/>
-			<item value="compiler"/>
-			<item value="plugi"/>
+			<item value="jdbc"/>
+			<item value="close"/>
+			<item value="myba"/>
+			<item value="data"/>
+			<item value="hikari"/>
+			<item value="hika"/>
 		</list>
 		<list key="replacehistory">
 		</list>
