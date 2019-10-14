@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/clyne/Project/STS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1630507530.index
+/jex00/src/main/java
+/Users/clyne/Project/STS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3873283762.index
+/animationWeb/src/main/java

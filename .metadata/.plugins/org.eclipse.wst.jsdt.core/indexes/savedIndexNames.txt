@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/clyne/Project/STS/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2970437849.index
+2469577170.index
+107452731.index
+3411535548.index
+2655247229.index
+4287479650.index
+994001194.index
